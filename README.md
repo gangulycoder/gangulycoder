@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @gangulycoder
-- 👀 I’m interested in coding life  
-- 🌱 I’m currently learning python,java,testing tools selenium and want to learn somethung new that trending in society currrently
-- 💞️ I’m looking to collaborate on pro coders
-- 📫 How to reach me ,you can contact me via whatsapp 9502853887
-- 😄 Pronouns: ...gangu
-- ⚡ Fun fact: ...i am still a fresher
+# Hi, I'm <GANGOOLY AMBATI>! 👋
+
+I am a passionate B.TECH ECE student at JNTUK KAKINADA, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+
+![<GANGOOLY AMBATI>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing for job opportunity in software field.
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+
+## My Articles
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://x.com/AmbatiGanguly?t=eoP9XF7x6D6WbrBoR8jODg&s=09)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology 
 
 <!---
 gangulycoder/gangulycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
