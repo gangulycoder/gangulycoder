@@ -1,8 +1,8 @@
-# Hi, I'm <GANGULY AMBATI>! 👋
+# Hi, I'm <gangulycoder>! 👋
 
 I am a passionate B.TECH ECE student at JNTUK KAKINADA, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<GANGULYCODER>'s Stats](https://github-readme-stats.vercel.app/api?username=<GANGULYCODER>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<gangulycoder>'s Stats](https://github-readme-stats.vercel.app/api?username=<gangulycoder>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
